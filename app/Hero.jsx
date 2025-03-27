@@ -192,7 +192,7 @@ export default function Hero() {
             {/* Personal Blurb */}
             <div className="mt-4 text-center lg:text-left">
               <p className="text-sm text-gray-600 italic">
-                "When I'm not building AI solutions, you'll find me exploring Seattle's dog parks with my mini Goldendoodle, 
+                "When I'm not building AI solutions, you'll find me exploring Seattle's dog parks with my wife and our mini Goldendoodle, 
                 tinkering with my Honda Shadow cruiser, or cheering for CSK and Manchester United. 
                 I'm passionate about pushing the boundaries of what's possible with data, but I believe a little fun and adventure 
                 keeps the creative juices flowing!"
